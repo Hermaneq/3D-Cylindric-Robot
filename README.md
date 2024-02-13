@@ -16,9 +16,13 @@ The Cylindrical Robot Model project showcases a detailed 3D rendering of a cylin
 - Record and replay robot movements.
 - Input coordinates for autonomous robot navigation.
 
+  ![image2](3D-cylindric-robot/images/Visualize2.png)
+
 ## Usage
 
 1. Run the Python program integrated with Panda3D.
 2. Follow the intuitive interface to engage with the robot model.
 3. Utilize the provided controls for arm manipulation, object handling, and movement recording.
 4. Input desired coordinates for autonomous navigation.
+
+ ![image2](3D-cylindric-robot/images/Visualize3.png)
