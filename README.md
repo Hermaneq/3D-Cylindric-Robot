@@ -2,7 +2,7 @@
 
 This project presents a 3D model of a cylindrical robot created using Blender and subsequently integrated into a Python program with the assistance of Panda3D. The program facilitates control over the robot's arm, manipulation using a gripper, object transportation, dropping objects, recording robot movements, and playing them back. Additionally, it enables controlling the robot by inputting x, y, z coordinates for autonomous movement.
 
-[![Robot Model]([link_to_your_photo](https://github.com/Hermaneq/3D-Cylindric-Robot/blob/c9b5c2a80f2a573b47453dab0f66952135f43a36/3D-cylindric-robot/images/Visualize1.png))]([link_to_your_photo](https://github.com/Hermaneq/3D-Cylindric-Robot/blob/c9b5c2a80f2a573b47453dab0f66952135f43a36/3D-cylindric-robot/images/Visualize1.png))
+![image1](3D-cylindric-robot/images/Visualize1.png)
 
 ## Introduction
 
