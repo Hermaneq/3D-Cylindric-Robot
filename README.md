@@ -18,7 +18,7 @@ The Cylindrical Robot Model project showcases a detailed 3D rendering of a cylin
 
   ![image2](3D-cylindric-robot/images/Visualize2.png)
 
-## Usage
+
 
 1. Run the Python program integrated with Panda3D.
 2. Follow the intuitive interface to engage with the robot model.
